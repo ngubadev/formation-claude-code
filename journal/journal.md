@@ -1,3 +1,21 @@
+## 📌 S1-bis — 9 juin 2026 — Session
+
+### Fait aujourd'hui
+- j'ai crée l'outil journal de bord que j'utilise actuellement grace au plan mode et j'ai appris le brief
+
+### Wins
+- j'ai bien mieux appris les brief et l'outil fonctionne
+
+### Blocages
+- peu de choses
+
+### Appris
+- les brief, le maniement declaude
+
+### Plan suivant
+- continuer la formation de anthropic pour shipper le prochain mini projet
+
+---
 # Journal de bord — Formation Claude Code
 
 ## 📌 J-X — 26 mai 2026 — Setup pré-formation
