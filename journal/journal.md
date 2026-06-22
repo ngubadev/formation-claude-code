@@ -1,3 +1,21 @@
+## 📌 session speciale projet pro book agent immo — 22 juin 2026 — Session
+
+### Fait aujourd'hui
+- Fait : Projet client iAD shippé de A à Z en une session — extraction PDF, matching OneDrive, traitement photos, app web Astro style Apple, mode dark, carte interactive, audit anti-fuite PASS, déploiement Netlify
+
+### Wins
+- Wins : Premier vrai livrable client publié en ligne. Détection + correction d'un bug RGPD majeur. Design Apple-style validé. Site responsive mobile.
+
+### Blocages
+- Blocages : OneDrive Files On-Demand a tué 3h hier soir. Aujourd'hui : groupement villes mal normalisé (résolu)
+
+### Appris
+- Appris : Importance de l'audit visuel humain post-algorithmique. Stratégie défense en profondeur (filename + visual + blacklist). Sens "sobre vs pavaneur" en design. Gestion projet en 5 phases avec validation par étape.
+
+### Plan suivant
+- Plan suivant : Demain push GitHub privé du repo book-agent-immo (5 min via web). Reprise formation Claude Code in Action.
+
+---
 ## 📌 S1-bis — 9 juin 2026 — Session
 
 ### Fait aujourd'hui
